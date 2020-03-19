@@ -1,19 +1,17 @@
-var express = require("express");
-// const path = require('path');
-// const noteData = require("./db/db.json")
+const express = require("express");
+const bodyParser = require("body-parser");
 
-var app = express();
+const app = express();
+const PORT = process.env.PORT || 8080;
 
-var PORT = process.env.PORT || 8080;
-
+app.use(express.static("public"));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(express.static('public'));
-
+app.use(bodyParser.json());
 
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
 app.listen(PORT, function() {
-  console.log("App listening on PORT: " + PORT);
+    console.log("App listening on PORT: " + PORT);
 });

@@ -1,1 +1,27 @@
-[{"title":"Test Title","text":"Test text","id":"1"},{"title":"123","text":"123","id":"1582575640704"}]
+[
+    {
+      "title": "Topics to Study",
+      "text": "HTML, CSS, Javascript, node.",
+      "id": 2
+    },
+    {
+      "title": "Homework to complete",
+      "text": "Note taker",
+      "id": 4
+    },
+    {
+      "title": "Supermarket run",
+      "text": "Bananas, Quinoa, Canned tuna",
+      "id": 5
+    },
+    {
+      "title": "Do Taxes",
+      "text": "Deadline approaching!!",
+      "id": 4
+    },
+    {
+      "title": "Smile",
+      "text": "Smile",
+      "id": 5
+    }
+  ]
