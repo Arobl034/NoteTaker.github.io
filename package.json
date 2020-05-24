@@ -1,4 +1,11 @@
 {
+  "development":{
+    "username": "zirtulvedj6yyyfk",
+    "password": "iufiqkali6cfclep",
+    "database": "ues49e68rsvgwqcc",
+    "host": "uoa25ublaow4obx5.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
   "name": "note-taker",
   "version": "1.0.0",
   "description": "",

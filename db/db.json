@@ -1,7 +1,17 @@
 [
   {
+    "id": 0,
+    "title": "Deploy to Heroku",
+    "text": "Deploy - 5/23/20\n\n\n"
+  },
+  {
     "id": 1,
-    "title": "Note Title 2",
-    "text": "This is a note"
+    "title": "5/23/20",
+    "text": "Heroku Bound\n"
+  },
+  {
+    "id": 2,
+    "title": "Yoda Note",
+    "text": "Yoda Lives 1000 years"
   }
 ]
