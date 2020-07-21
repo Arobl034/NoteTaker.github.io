@@ -19,3 +19,4 @@ The application uses the "Express" dependency to set routes, and get and post da
 ![3task](https://user-images.githubusercontent.com/58242373/82761478-c73e7280-9dc8-11ea-9abe-252c3fd80ce7.jpg)
 
 ## Published:
+<https://arobl034.github.io/NoteTaker.github.io/.>
